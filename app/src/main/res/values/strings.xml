@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Akcelerometr</string>
+    <string name="textStart">Składowe przyśpieszenia</string>
+    <string name="textAx">X:</string>
+    <string name="textAy">Y:</string>
+    <string name="textAz">Z:</string>
+    <string name="btnStart">Start☑</string>
+    <string name="btnStop">Stop☒</string>
+    <string name="btnReset">Reset☠</string>
+    <string name="counter">Ilośc kroków ☯</string>
+
+</resources>
